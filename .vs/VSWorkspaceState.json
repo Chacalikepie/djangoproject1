@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\chrisbday\\static",
+    "\\chrisbday\\static\\chrisbday",
+    "\\chrisbday\\templates",
+    "\\chrisbday\\templates\\chrisbday",
+    "\\hello\\templates",
+    "\\hello\\templates\\hello",
+    "\\tasks",
+    "\\tasks\\templates",
+    "\\tasks\\templates\\tasks"
+  ],
+  "SelectedNode": "\\tasks\\templates\\tasks\\layout.html",
+  "PreviewInSolutionExplorer": false
+}
